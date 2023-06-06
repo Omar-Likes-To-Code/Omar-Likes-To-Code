@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hello%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-<h1 align="center">Hello there 👋, I'm I'm Omar</h1>
+
 <h3 align="center">A Junior Developer with a passion towards exploring the unknown</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-likes-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="omar-likes-to-code" /> </p>
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/omar soliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar soliman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/omar-likes-to-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="omar-likes-to-code" height="30" width="40" /></a>
 </p>
 
