@@ -2,7 +2,6 @@
 
 <h1 align="center">Hello there 👋, I'm I'm Omar</h1>
 <h3 align="center">A Junior Developer with a passion towards exploring the unknown</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-likes-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="omar-likes-to-code" /> </p>
 
 - 🔭 I’m currently a full-time student [.](.)
