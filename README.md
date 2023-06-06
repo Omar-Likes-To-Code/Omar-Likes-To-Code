@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hello%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">Hello there 👋, I'm I'm Omar</h1>
 <h3 align="center">A Junior Developer with a passion towards exploring the unknown</h3>
