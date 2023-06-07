@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hello%20🌻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
-<h3 align="center">A Junior Developer with a passion towards exploring the unknown</h3>
+<h3 align="left">🌐 A Junior Developer with a passion towards exploring the unknown 🌐</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-likes-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="omar-likes-to-code" /> </p>
 
 - 🔭 I’m currently a full-time student [.](.)
