@@ -4,7 +4,7 @@
 <h3 align="left">🌐 A Junior Software Engineer with a passion towards exploring the unknown 🌐</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-likes-to-code&label=Profile%20views&color=0e75b6&style=flat" alt="omar-likes-to-code" /> </p>
 
-- 🔭 I’m currently interning as a Software Engineer.[.](.)
+- 🔭 I’m currently interning as a Software Engineer.
 
 - 📝 I regularly stay updated on all the latest shifts in the tech and language updates **.**
 
